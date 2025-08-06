@@ -1,9 +1,15 @@
-📊 **Workforce & Sales Intelligence Dashboard**
+# **Workforce & Sales Intelligence Dashboard**
 
 This repository contains an interactive Workforce & Sales Intelligence Dashboard for Amazon sales data analysis. The dashboard enables users to explore key business metrics, visualize sales and delivery performance, and identify high-performing regions, products, and categories.
 
 📥 [Click here to visit the Repo ](https://github.com/Mohit-kr-singh/Workforce_Sales_Intelligence_Dashboard)
 
+### Dashboard Image
+<img width="1701" height="702" alt="image" src="https://github.com/user-attachments/assets/c96548a1-0e1b-44a3-b46f-e76f3c875df7" />
+
+### Demo Video Walkthrough
+
+[Demo video](https://github.com/Mohit-kr-singh/Workforce_Sales_Intelligence_Dashboard/blob/0a1349e7863564cbeb8421a6ab650ba1720b587d/Resources/Image/Demo_video.mp4)
 
 ### 📌 Project Features
 
@@ -24,6 +30,8 @@ Evaluate cancellation rate trends across different regions.
 
 🧩 **Dynamic Filtering Options**  
 Slice data using multiple filters: Month, Payment Method, Region, Product Category, Delivery Status.
+
+<img width="182" height="676" alt="image" src="https://github.com/user-attachments/assets/13bc1599-7326-44fd-b3c8-ba20c8891ecd" />
 
 📊 **Interactive Visuals**  
 Leverage region-wise charts, donut/pie charts, and performance leaderboards for storytelling.
